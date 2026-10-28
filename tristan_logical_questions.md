@@ -137,6 +137,11 @@ Món đồ, thời gian, địa điểm, và lý tưởng là *thời khắc* b�
 **Tín hiệu tốt:** Một câu chuyện cụ thể, kể kèm khoảnh khắc nhận ra. Trung thực về cái giá phải trả.
 **Tín hiệu yếu:** "Tôi không bao giờ quên đồ." (Khó tin — thường nghĩa là tự giám sát thấp.)
 
+
+==> Tôi quên điện thoại trong phòng gym.
+
+Tôi nhận ra khi cần goi bạn.
+
 ---
 
 ### Q6 — Vị trí nào trong hàng đợi vào rạp chiếu phim là tốt nhất? · `[O]`
@@ -165,6 +170,8 @@ Sự chặt chẽ trong quan sát giống Q6 — *cộng thêm* sự quan tâm �
 **Tín hiệu tốt:** Đánh đổi theo bối cảnh (đi xa hay gần, giờ cao điểm hay vắng) *và* nhận thức về những người khác cùng dùng ghế.
 **Tín hiệu yếu:** Ghế tối ưu cho tôi, chấm hết.
 
+==> Tôi thích ngồi gần tài xế, để dễ cảm nhận sớm các đoạn cua con đường.
+
 ---
 
 ## Chuyên sâu
@@ -179,6 +186,12 @@ Một quy trình. Xác định điểm nghẽn (chọn làn, phương thức tha
 
 **Tín hiệu tốt:** Bước rõ ràng kèm lý do thứ tự. Đánh đổi rõ rệt (tốc độ vs. an toàn, tốc độ vs. chi phí xăng).
 **Tín hiệu yếu:** Checklist chung chung. Không có tư duy tối ưu. Bỏ sót những thắng lợi hiển nhiên (đậu đúng phía có nắp xăng, sẵn sàng phương tiện thanh toán).
+
+==> Tôi bước xuống xe, gọi đổ đầy bình.
+
+Điểm ngẽn là khi thanh toán trả tiền.
+
+Tôi tiết kiệm thời gian bange quét thẻ thay vì tiền mặt.
 
 ---
 
